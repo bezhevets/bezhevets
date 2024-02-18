@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Maksym</h1>
 <h3 align="center">A passionate Python Developer from Ukraine</h3>
 
-- 🔭 I’m currently working on [Coompany Task Manager](https://github.com/bezhevets/company_task_manager)
-
 - 🌱 I’m currently learning **Django, DRF, Web Scraping**
 
 - 💬 Ask me about **Python, Django**
