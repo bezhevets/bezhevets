@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Django, DRF, Web Scraping**
 
-- 💬 Ask me about **Python, Django**
+- 💬 Ask me about **Python, Django, Scraping**
 
 - 📫 How to reach me **bezheve@gmail.com**
 
